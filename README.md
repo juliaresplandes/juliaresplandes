@@ -1,1 +1,20 @@
-# Julia Resplandes Full Stack Developer
+# Júlia Resplandes 
+
+### Scalable in
+
+• [Email](mailto:jullia.resplandes@aluno.senai.br) 
+
+---
+
+## Sobre 
+Desenvolvedor Full Stack que conecta interfaces de usuário atraentes a sistemas back-end robustos.
+---
+
+## Stack´s
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
