@@ -7,7 +7,7 @@
 ---
 
 ## Sobre 
-Desenvolvedor Full Stack que conecta interfaces de usuário atraentes a sistemas back-end robustos.
+Desenvolvedor Full Stack 
 ---
 
 ## Stack´s
