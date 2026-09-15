@@ -7,21 +7,24 @@
 
 ---
 
-## About
-
+## About me
+Hi! I´m a Systems Development student passionate about building end-to-end web applications, combining robust backend architecture and data analysis.
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,nestjs,anaconda,prisma,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,java,python,nestjs,anaconda,mysql,postgres" />
 </p>
 
 ---
 
 ## Focus
-
+- Responsive interface
+- REST APIs
+- Data modeling and data manipulation
+- Data analysis to solve practical problems effectively
 
 ## Contact me
 
